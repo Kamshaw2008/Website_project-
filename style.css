@@ -1,0 +1,202 @@
+body{
+background-color: cyan;
+
+}
+h1{
+ text-align: center;
+}
+
+#Aboutme{
+border: 1px solid cyan;
+width: 500px;
+height: 1000px;
+margin: auto;
+display: flex;
+justify-content:center;
+flex-direction: row;
+flex-wrap: wrap;
+}
+#intro {
+justify-content:flex-start;
+}
+p{
+    font-size: larger;
+}
+#hobbies{
+border: 1px solid cyan;
+width: 500px;
+height: 1000px;
+display: flex;
+margin-left: -1000px;
+justify-content:flex-start;
+flex-direction: row;
+flex-wrap: wrap; 
+} 
+ul{
+    font-size: larger;
+}
+#Navbar{
+    background-color: rgb(45, 45, 45);
+    border: 1px solid black; 
+    width: 2040px;
+    height: 50px;
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+    align-items: center;
+}
+.catergory {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    }
+
+a{
+width: 20%;
+text-align: center;
+text-decoration: none;
+}
+
+#Aboutmept2{
+border: 1px solid cyan;
+width: 450px;
+height: 250px;
+margin: auto;
+display: flex;
+margin-top: -500px;
+margin-left: -1px;
+justify-content:space-evenly;
+flex-direction: row;
+flex-wrap: wrap;
+}
+#Orgins{
+    justify-content: flex-start;
+    font-size: medium;
+}
+#flags{
+margin: auto;
+width: 180px;
+border: 5px solid cyan;
+margin-top: -20px;
+margin-left: 90px;
+display: flex;
+flex-wrap: wrap-reverse;
+
+}
+#Hobbies{
+border: 1px solid cyan;
+width: 450px;
+height: 250px;
+margin: auto;
+display: flex;
+margin-top: -350px;
+margin-right: -1px;
+justify-content:space-evenly;
+flex-direction: row;
+flex-wrap: wrap;
+}
+
+
+#basketball{
+    margin: auto;
+    width: 190px;
+    border: 5px solid cyan;
+    margin-top: -20px;
+    margin-left: 1770px;
+    display: flex;
+    flex-wrap: wrap-reverse;  
+}
+#Babysitting{
+    border: 1px solid cyan;
+    width: 500px;
+    height: 1000px;
+    margin-left: 1500px;
+    display: flex;
+    justify-content:center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    }   
+#sitting{
+    justify-content:flex-start;   
+    margin-top: -300px;;
+}
+#Communityservice{
+border: 1px solid cyan;
+width: 450px;
+height: 250px;
+margin: auto;
+display: flex;
+margin-top: -1000px;
+margin-left: 20px;
+justify-content:space-evenly;
+flex-direction: row;
+flex-wrap: wrap;
+}
+
+#Service{
+justify-content: flex-start;
+}
+#Img{
+    border: 1px solid cyan;
+    width: 1000px;
+    height: 1000px;
+    margin-top: -250px;
+    margin-left: 1550px;
+    display: flex;
+    justify-content:center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+#Basketball{
+    border: 1px solid cyan;
+    width: 500px;
+    height: 250px;
+    margin:auto;
+    display: flex;
+    justify-content:center;
+    align-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+#Basketballpara{
+justify-content:flex-start;
+}
+#KamauImage{
+    border: 1px solid cyan;
+    width: 1000px;
+    height: 1000px;
+    margin-top: -10px;
+    margin-left: 520px;
+    display: flex;
+    justify-content:center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+#Clubs{
+    border: 1px solid cyan;
+    width: 450px;
+    height: 250px;
+    margin: auto;
+    display: flex;
+    margin-top: -1220px;
+    margin-left: -1px;
+    justify-content:space-evenly;
+    flex-direction: row;
+    flex-wrap: wrap;
+    }    
+
+#kamauphoto{
+    border: 1px solid cyan;
+    width: 500px;
+    height: 250px;
+    margin-top: -800px;
+    margin-left: 750px;
+    display: flex;
+    justify-content:center;
+    align-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+
+
